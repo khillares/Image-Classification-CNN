@@ -1,0 +1,9 @@
+Image Classification on Yelp Dataset.
+
+All images should be saved to Folder Structure "C:\Yelp"
+
+Folder structure inside yelp should be train images and test images, here we are considering only train images into code and spiliting it into 80-20 portion. In one approach we are using 20% images for validation and using test images for checking model prediction.
+
+Video URL: https://youtu.be/-sN82tw_LwU
+
+Presentation URL: https://prezi.com/view/6h3KMXiJN1TKUscBXrLY/
